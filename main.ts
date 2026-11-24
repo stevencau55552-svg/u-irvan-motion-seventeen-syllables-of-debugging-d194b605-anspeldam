@@ -9,7 +9,7 @@ const HAIKU = [
   "The breakpoint still waits",
   "through a thousand runs, unhit",
   "no one calls this code",
-].join("\n");
+].join("\n") + "\n";
 
 const OUTPUT_PATH = "/output/entry.txt";
 
